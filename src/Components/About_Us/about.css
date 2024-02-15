@@ -1,0 +1,10 @@
+.custom-about-para{
+    text-align:justify;
+    vertical-align:text-top;
+    font-size:20px;
+    line-height:auto;
+    border-style:hidden;
+    outline:none;
+   font-family: poppine;
+   text-indent: 20%;
+}
